@@ -15,7 +15,7 @@ $RECYCLE.BIN/
 *.msp
 
 # Windows shortcuts
-*.lnk
+# *.lnk
 
 # =========================
 # Operating System Files
@@ -24,9 +24,9 @@ $RECYCLE.BIN/
 # OSX
 # =========================
 
-.DS_Store
-.AppleDouble
-.LSOverride
+ .DS_Store
+ .AppleDouble
+ .LSOverride
 
 # Thumbnails
 ._*
